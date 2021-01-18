@@ -1,2 +1,5 @@
-# EOG-React-Assessment-
-This is a coding assessment for EOG resources.
+## Create React App Visualization
+
+This assessment was bespoke handcrafted for ritish.
+
+Read more about this assessment [here](https://react.eogresources.com)
